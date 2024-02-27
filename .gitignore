@@ -33,3 +33,13 @@
 /.idea/geometrie.iml
 /.idea/misc.xml
 /.idea/modules.xml
+/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0b203a354afc9659a37b.json
+/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5ed103f7a1c4e9371f3e.json
+/cmake-build-debug/.cmake/api/v1/reply/index-2024-02-27T13-36-45-0959.json
+/cmake-build-debug/.cmake/api/v1/reply/target-geometrie-Debug-66ee03e889bc455c2568.json
+/cmake-build-debug/CMakeFiles/geometrie.dir/main.cpp.obj
+/cmake-build-debug/CMakeFiles/geometrie.dir/Point.cpp.obj
+/cmake-build-debug/CMakeFiles/geometrie.dir/Segment.cpp.obj
+/cmake-build-debug/.ninja_deps
+/cmake-build-debug/.ninja_log
+/cmake-build-debug/geometrie.exe
