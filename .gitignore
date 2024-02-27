@@ -43,3 +43,5 @@
 /cmake-build-debug/.ninja_deps
 /cmake-build-debug/.ninja_log
 /cmake-build-debug/geometrie.exe
+/.idea/vcs.xml
+/cmake-build-debug/.cmake/api/v1/reply/index-2024-02-27T13-39-13-0246.json
